@@ -1,0 +1,14 @@
+new assignment: typescript
+typescript azure function API
+transpile
+azure typescript tutorial
+debug
+set checkpoints
+understand core concepts 
+error handling (bubble up, return types, )
+modules (not one script)
+artificially throw exceptions and how to catch
+strongly typed datatypes
+class record (model on EPC data)
+logging
+linting
